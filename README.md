@@ -4,6 +4,9 @@
 
 This module provides plugin interfaces for ProductOfferServicePointAvailabilityCalculator module extension.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/product-offer-service-point-availability-calculator-storage-extension](https://github.com/spryker/product-offer-service-point-availability-calculator-storage-extension) instead.
+
 ## Installation
 
 ```
